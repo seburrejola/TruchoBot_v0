@@ -2,7 +2,9 @@
 Old School Runescape Bot Prototype.
 
 
-Instalation guide in this link**
+Instalation guide here
 
-TO DO --> make a better README
+https://codepen.io/fskarmeta/full/WNwGYNJ
+
+
 
